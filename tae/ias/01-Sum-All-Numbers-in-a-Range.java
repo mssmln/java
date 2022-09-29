@@ -1,4 +1,4 @@
-class IAS01 {
+class SumAll {
     private static int sumAll(int[] arr) {
         int n = 0;
         final int min = Math.min(arr[0], arr[1]);
